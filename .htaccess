@@ -1,0 +1,5 @@
+ErrorDocument 404 http://fwateer.xyz/
+
+<files *.php>
+Header set X-Robots-Tag "index,follow"
+</files>
